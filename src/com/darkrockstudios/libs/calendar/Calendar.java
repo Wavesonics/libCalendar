@@ -104,6 +104,7 @@ public class Calendar implements Parcelable
 		dest.writeLong( id );
 		dest.writeString( name );
 		dest.writeString( accountName );
+		dest.writeString( accountType );
 		dest.writeString( displayName );
 	}
 
