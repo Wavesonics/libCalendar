@@ -19,7 +19,7 @@ II.	Features so far:
 	* Calendar
 	* Event
 	* Instance
-- All data containers are Parcelable, and have proper .equals() overrides
+- All data containers are Parcelable, and have proper .equals() and .toString() overrides
 - Utility classes for:
 	* Calendar
 	* Event
