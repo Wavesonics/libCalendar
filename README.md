@@ -4,11 +4,11 @@ Adam Brown [ Wavesonics ]
 
 Table of Contents:
 ==================
-1.	About
-2.	Features so far
+* About
+* Features so far
 
 
-1.	About:
+About:
 ----------
 Android 4.0 (Ice Cream Sandwich) introduced a public Content Provider for Android's local Calendar database. It's fairly full featured, but can be a pain to use if you are only performing simple operations.
 
@@ -17,7 +17,7 @@ In the interest of being able to write simple concise code, I began writing this
 This library is a work in progress, the code isn't pretty. Pull requests are greatly appreciated.
 
 
-2.	Features so far:
+Features so far:
 --------------------
 * Data container classes for:
 	* Calendar
