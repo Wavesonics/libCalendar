@@ -2,12 +2,6 @@ libCalendar
 ===========
 Adam Brown [ Wavesonics ]
 
-Table of Contents:
-==================
-* About
-* Features so far
-
-
 About:
 ----------
 Android 4.0 (Ice Cream Sandwich) introduced a public Content Provider for Android's local Calendar database. It's fairly full featured, but can be a pain to use if you are only performing simple operations.
