@@ -12,8 +12,6 @@ public class CalendarUtility
 {
 	private static final String		GOOGLE_TYPE			= "com.google";
 
-	// Projection array. Creating indices for this array instead of doing
-	// dynamic lookups improves performance.
 	private static final String[]	EVENT_PROJECTION	= new String[] {
 			Calendars._ID,
 			Calendars.NAME,

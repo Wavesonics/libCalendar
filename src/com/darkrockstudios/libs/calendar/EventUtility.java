@@ -13,9 +13,7 @@ import android.provider.CalendarContract;
 
 public class EventUtility
 {
-	// Projection array. Creating indices for this array instead of doing
-	// dynamic lookups improves performance.
-	private static final String[]	EVENT_PROJECTION	= new String[] { CalendarContract.Events._ID, // 0
+	private static final String[]	EVENT_PROJECTION	= new String[] { CalendarContract.Events._ID,
 			CalendarContract.Events.CALENDAR_ID,
 			CalendarContract.Events.EVENT_TIMEZONE,
 			CalendarContract.Events.DTSTART,
